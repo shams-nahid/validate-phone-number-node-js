@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Phone number check is a [npm](http://npmjs.org) module for [NodeJS](http://nodejs.org/), that **checks if a phone number exists and valid**.
+Phone number check is a [npm](https://www.npmjs.com/package/validate-phone-number-node-js) module for [NodeJS](http://nodejs.org/), that **checks if a phone number exists and valid**.
 
 It validates the number through regex.
 
