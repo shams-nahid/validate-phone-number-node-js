@@ -1,15 +1,18 @@
 {
   "name": "validate-phone-number-node-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Validate phone number in node js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/bmshamsnahid/validate-phone-number-node-js.git"
   },
   "author": "B M Shams Nahid",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
