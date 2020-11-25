@@ -27,6 +27,12 @@ const result = validatePhoneNumber.validate('+8801744253089');
 
 ```
 
+### Test
+
+```bash
+npm run test
+```
+
 ***
 
 MIT License
